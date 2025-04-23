@@ -1,0 +1,3 @@
+dataSet,num_nodes,num_edges,spmm_tcu_fp16,spmm_tcu_tf32
+IGB_small,1000000,13068130,30.227,29.3745
+reddit,232965,114848857,13.6566,15.4218

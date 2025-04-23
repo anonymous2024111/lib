@@ -1,0 +1,7 @@
+mGCN.cpp
+mGCNKernel.cu
+setup.py
+mGCN.egg-info/PKG-INFO
+mGCN.egg-info/SOURCES.txt
+mGCN.egg-info/dependency_links.txt
+mGCN.egg-info/top_level.txt

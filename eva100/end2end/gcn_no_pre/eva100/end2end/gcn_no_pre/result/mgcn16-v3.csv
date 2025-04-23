@@ -1,0 +1,11 @@
+H100 : 
+Amazon-ratings,3-256,0.6768
+pubmed,3-256,0.6818
+wiki,3-256,0.6758
+Coauthor_Physics,3-256,0.7519
+Amazon_Computers,3-256,0.6726
+Amazon_Photo,3-256,0.663
+CitationFull_DBLP,3-256,0.7197
+ro,3-256,0.7323
+DeezerEurope,3-256,0.7133
+FacebookPagePage,3-256,0.7264

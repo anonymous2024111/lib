@@ -1,0 +1,2 @@
+dataSet,num_nodes,num_edges,spmm_tcu_fp16,spmm_tcu_tf32
+MOOC,411749,356886,4.458,4.7825

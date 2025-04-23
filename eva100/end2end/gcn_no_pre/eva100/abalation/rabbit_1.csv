@@ -1,0 +1,13 @@
+data,num,kernel
+Reddit,817405.0,SpMM
+Reddit,204277.0,SDDMM
+OgbProducts,47603.0,SpMM
+OgbProducts,11744.0,SDDMM
+AmazonProducts,9124979.0,SpMM
+AmazonProducts,2281409.0,SDDMM
+Amazon,86449.0,SpMM
+Amazon,21649.0,SDDMM
+Blog,141074.0,SpMM
+Blog,35283.0,SDDMM
+Artist,10404.0,SpMM
+Artist,2617.0,SDDMM
